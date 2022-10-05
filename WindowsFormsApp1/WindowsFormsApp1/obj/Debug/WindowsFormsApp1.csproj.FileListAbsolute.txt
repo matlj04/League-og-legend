@@ -1,0 +1,10 @@
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\League of Legends.exe.config
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\League of Legends.exe
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\League of Legends.pdb
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\League of Legends.exe
+G:\RPR\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\League of Legends.pdb
